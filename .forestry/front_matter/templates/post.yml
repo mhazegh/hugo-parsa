@@ -28,3 +28,4 @@ fields:
   description: 'type: post or featured'
 pages:
 - content/blah-blah.md
+- content/hello.md
