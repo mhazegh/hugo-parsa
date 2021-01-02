@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Nature"]
 date = 2021-01-02T07:00:00Z
 description = "Eggs"
 image = "/images/featured-post/post-5.jpg"
