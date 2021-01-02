@@ -11,5 +11,3 @@ type = "featured"
 Hello
 
 Here are some eggs.
-
-![](/images/masonary-post/post-6.jpg) 
